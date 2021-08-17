@@ -1,0 +1,60 @@
+#Pizzaimage{
+	width: 50%;
+	height: 800px;
+	margin-top: 40px;
+
+}
+
+h1{
+	font-size: 80px;
+	color: #ff5964;
+	font-weight: ;
+}
+
+p{
+	font-size: 200%;
+}
+.cards{
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+	border-radius: 70px;
+}
+h2{
+	font-size: 400%;
+	
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	background-color: #FFE74C;
+}
+
+li{
+	list-style-type: none;
+
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.cards{
+	padding: 30px;
+}
+
+.tri{
+	background-color: darkred;
+	padding: 30px;
+	margin: 30px;
+}
+
+.footer{
+	background-color:#38618C ;
+	text-align: left;
+	color: #ffffff;
+	padding: 20px;
+}
+

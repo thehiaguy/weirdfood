@@ -1,0 +1,36 @@
+h1{
+	font-size: 100px;
+	color: #0F7173;
+	font-family: 'Palette Mosaic', cursive;
+}
+
+body{
+	background-color:#F05D5E ;
+display: flex;
+
+}
+.col1{
+padding: 70px;
+width: 40%;
+
+}
+
+.col2{
+padding: 70px;
+width: 40%;
+
+
+}
+
+img{
+	height: 350px;
+	width: 500px;
+}
+p{
+	font-size: 40px;
+	color: #E7ECEF;
+}
+.imgthing{
+height: 400px;
+width: 700px;
+}
